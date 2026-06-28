@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Recipe Recommender</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <div class="container">
+        <header class="hero">
+            <h1>MOOD<span class="highlight">-FOOD</span></h1>
+            <p>Discover personalized recipes based on your ingredients and macros.</p>
+        </header>
+
+        <main>
+            <section class="search-section">
+                <form method="POST" action="/">
+                    <div class="form-grid">
+                        <div class="input-group full-width">
+                            <label for="ingredients">Ingredients (e.g. Chicken, Tomato, Spices)</label>
+                            <input type="text" id="ingredients" name="ingredients" value="{{ request.form.get('ingredients', '') }}" placeholder="What's in your fridge?">
+                        </div>
+                        <div class="input-group">
+                            <label for="fats">Fats (g)</label>
+                            <input type="number" id="fats" name="fats" step="0.1" value="{{ request.form.get('fats', '') }}" placeholder="0">
+                        </div>
+                        <div class="input-group">
+                            <label for="carbs">Carbs (g)</label>
+                            <input type="number" id="carbs" name="carbs" step="0.1" value="{{ request.form.get('carbs', '') }}" placeholder="0">
+                        </div>
+                        <div class="input-group">
+                            <label for="protein">Protein (g)</label>
+                            <input type="number" id="protein" name="protein" step="0.1" value="{{ request.form.get('protein', '') }}" placeholder="0">
+                        </div>
+                        <div class="input-group">
+                            <label for="cholesterol">Cholesterol (mg)</label>
+                            <input type="number" id="cholesterol" name="cholesterol" step="0.1" value="{{ request.form.get('cholesterol', '') }}" placeholder="0">
+                        </div>
+                        <div class="input-group">
+                            <label for="fiber">Fiber (g)</label>
+                            <input type="number" id="fiber" name="fiber" step="0.1" value="{{ request.form.get('fiber', '') }}" placeholder="0">
+                        </div>
+                    </div>
+                    <button type="submit" name="find_recipes" class="btn-primary">Find Recipes</button>
+                </form>
+            </section>
+
+            {% if results %}
+            <section class="results-section">
+                <h2>Top Recommendations</h2>
+                <div class="recipe-grid">
+                    {% for recipe in results %}
+                    <!-- Removed breaking inline styles — let CSS do the work -->
+                    <div class="recipe-card">
+                        <div class="recipe-image">
+                            <!-- Fixed infinite error fallback loop -->
+                            <img src="{{ recipe['Image_URL'] if recipe['Image_URL'] else 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop' }}" 
+                                 alt="{{ recipe['Dish'] }}" 
+                                 onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop';">
+                            <div class="recipe-badge">Match #{{ loop.index }}</div>
+                        </div>
+                        <div class="recipe-content">
+                            <h3>{{ recipe['Dish'] }}</h3>
+                            <p class="ingredients"><strong>Ingredients:</strong> {{ recipe['Ingredients'] }}</p>
+                            
+                            <div class="macros">
+                                <div class="macro-item">
+                                    <span class="macro-value">{{ recipe['Protein'] }}g</span>
+                                    <span class="macro-label">Protein</span>
+                                </div>
+                                <div class="macro-item">
+                                    <span class="macro-value">{{ recipe['Carbs'] }}g</span>
+                                    <span class="macro-label">Carbs</span>
+                                </div>
+                                <div class="macro-item">
+                                    <span class="macro-value">{{ recipe['Fats'] }}g</span>
+                                    <span class="macro-label">Fats</span>
+                                </div>
+                            </div>
+                            
+                            <div class="micros">
+                                <span>Fiber: {{ recipe['Fiber'] }}g</span>
+                                <span>•</span>
+                                <span>Cholesterol: {{ recipe['Cholesterol'] }}mg</span>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+            {% elif request.method == "POST" %}
+            <section class="no-results">
+                <h2>No results found.</h2>
+                <p>Try adjusting your search criteria or ingredients.</p>
+            </section>
+            {% endif %}
+        </main>
+    </div>
+</body>
+</html>
