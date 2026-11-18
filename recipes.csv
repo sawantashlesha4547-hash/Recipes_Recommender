@@ -1,91 +1,91 @@
 Dish,Fats (g),Carbs (g),Protein (g),Cholesterol (mg),Fiber (g),Ingredients,Image_URL
-Butter Chicken,27,10,25,120,1.5,"Chicken, butter, cream, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1ayk-bmXhKER3lY6WJmE3DTLKmtJbWSKZax6dZ_Pzw&s=10
-Paneer Butter Masala,25,15,20,70,2,"Paneer, butter, cream, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu_Cewy9lNwpRkmfoL8OVlgiLkoABMuW2P3xN2uCnhQ&s=10
-Biryani,18,65,20,90,2.5,"Rice, chicken/mutton, yogurt, spices, onions",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGb4GlhonJ7KfUeJ_xEd2nEx9BJwmtQVeXysB-9weBg&s=10
-Masala Dosa,7,45,6,0,3,"Rice, urad dal, potato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV57SBRfqMT7AuUQqxTXu_9oLpBsdbsF8ZE9_lJShXA&s=10
-Chole (Chickpea Curry),12,40,15,0,7,"Chickpeas, onion, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2NNz82UBlHDD2CUjpwDdT5z28TgSeuI_AG1OEqNpUQ&s=10
-Rogan Josh,22,8,24,100,1,"Mutton, yogurt, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJZzlgfS33CfogmM1nbKQlgTOfi2bzufsZyTA7aqn_w&s=10
-Dal Makhani,16,30,15,40,6.5,"Whole black lentils, butter, cream, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj69CQoaUB983VVTvNDUaKrHfX4v5ECnOn1eNZyLT_FA&s=10
-Palak Paneer,18,8,18,60,4,"Spinach, paneer, cream, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVuHdZxDBp717jXJFXGgiTlns2ZYpB866sPzoM-9lyA&s=10
-Aloo Gobi,10,15,5,0,3.5,"Potato, cauliflower, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgahuxrQVm6h-8Pph2FQOQEzDvlFE6reCAFG_-QKpLA&s=10
-Tandoori Chicken,15,5,25,80,0.5,"Chicken, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkWV_51Y3LI2FAVxqnSoVGfecIPnqCxb7LUsud6R35Q&s=10
-Samosa,14,30,6,0,2.5,"Potato, peas, flour, spices",https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800
-Pani Puri,4,20,2,0,1,"Semolina, potato, chickpeas, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PRTd2a6WXWxRaG8H5oOTflkQRmEBKQFHHSUYU3e8Fw&s
-Rajma,8,40,12,0,7.5,"Kidney beans, tomato, onion, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwKKVKShfm7EKMZTPUQMkHqOsvrmw63uO36pExRsEfQ&s=10
-Malai Kofta,22,20,10,50,3,"Paneer, potatoes, cream, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZxvZ1SPddViWSVaPHi5rOtwtQIDNg8Xam1kY3AaBCw&s=10
-Chicken Curry,20,10,23,100,1,"Chicken, onion, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmk6j0DnoeKDMr7aAV-e0Gp-zrpoqSRdsXppub8iHEg&s=10
-Idli,2,20,4,0,1.5,"Rice, urad dal",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICZDk1ahTsuTOAkhIzlg90UgVhyOe0F_hwT_z-xs_2g&s=10
-Upma,7,35,6,0,2,"Semolina, vegetables, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQeKtlV1cq_8cu3a0oj1h3BdDeK-uYkefpGesR1MnPg&s=10
-Pav Bhaji,10,45,6,20,3.5,"Bread, potatoes, tomato, peas, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRJBxnITiWW6TDH33tGDU_g2Hpo1-WdilumflReBrgw&s=10
-Aloo Paratha,12,35,8,0,3,"Flour, potato, butter, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6f8HZqTMgd3visC-9dVc8WpQQk6xuNq4c1EWdehwvg&s=10
-Chicken Tikka,14,5,25,70,0.5,"Chicken, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr27Ne4i2x1S-CNvA_vCAaDEg10hwbjmcuA1ACQWomQ&s=10
-Egg Curry,18,8,13,180,1,"Eggs, onion, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnmG7oTIPTUfSt6owxJmGBlnICdQmvzsbOiLNiuYnlg&s=10
-Keema,20,5,22,90,0.5,"Minced meat, onion, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvOQiYXrYzGDewo5iszPK5FZ_PQC8KcAtfrYyzjKJQA&s=10
-Bhindi Masala,7,10,3,0,3,"Okra, onion, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfCInv2W7hNycFHlOjqf3SwyA6JN8XTMCZ4XGZ9CUWg&s=10
-Gajar Halwa,15,35,4,20,2,"Carrot, milk, sugar, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtK8b5dWD7l6upY1hPRi4rO3ctYv3sVXmCtEIbU9vDg&s=10
-,,,,,,,
-Mutton Biryani,25,60,28,110,2.5,"Rice, mutton, yogurt, spices, onions",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Y2K-9nlJclcvDpGSeTSlpl6gE4IIAv5sDQG961QWUQ&s=10
-Dhokla,6,25,6,0,1.5,"Gram flour, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFQwST1ilM1ahf2DQUwZb1NMqO33Ig38hbL2LgqfMBQ&s=10
-Fish Curry,18,8,22,90,1,"Fish, coconut milk, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY1i5JZyULNOkNSc2dVcAzFgHj0M3EE3h3rxDCzyM9A&s=10
-Malabar Parotta,15,40,7,0,1,"Flour, oil",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LAkVcIaBKWzpzPPzt23jmiHP-vhsvSMDBmB-ZFxcSA&s=10
-Kadai Paneer,20,10,18,60,2,"Paneer, capsicum, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhWls94EMCk2N_C5gUEVIcdTlG0WH9GY50a7tdajJVQ&s=10
-Matar Paneer,18,12,16,60,3,"Paneer, peas, tomato, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrPFCzleL_YALuvcxV93lgZR0XkdU-zk3gZncDtzzhg&s=10
-,,,,,,,
-Goan Prawn Curry,22,10,20,80,1,"Prawns, coconut milk, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheVlRVjbXy7I6bUOVtbmTQpRMInSKjIq1lufHf1Zqdg&s=10
-Khichdi,8,35,8,0,4,"Rice, lentils, ghee, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSq1aAlj0YpKCy0P2G3_9N3yeVruM7ToZS32SxAGpeA&s=10
-Daal Tadka,10,30,10,0,6,"Lentils, ghee, onion, spices",https://bakinghermann.com/wp-content/uploads/2024/11/Dal-Tadka-12.jpg
-Chicken Korma,25,12,20,110,1,"Chicken, cream, nuts, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu65DXl4c3QegXgqSDWw0xuSfWJIbkx9_27pcEMKBtyg&s=10
-Baingan Bharta,8,12,4,0,4.5,"Eggplant, tomato, onion, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFVRlPEPar9jM0oy5a7IzMApamWBESHbZkoT_7G9nPg&s=10
-Rasgulla,10,35,3,20,0,"Milk, sugar",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_CKe5pjhsUeZ_z3z8RntqJ-K7oHQg6DilUxBWWebTw&s=10
-Gulab Jamun,15,40,4,20,0,"Milk solids, sugar, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLABuhWCGpAlL4ueoPaFVdYf8PGMasds2zNlsc7s_Qkw&s=10
-Prawn Biryani,20,60,24,90,2.5,"Rice, prawns, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cPEITDgsEFQxymdvyxk13VihBZXSBxU517LDS34nMg&s=10
-Chicken 65,18,8,20,70,0.5,"Chicken, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLCMBqpPbGixWKafeh4aLsKpnUUGImPgc4YpeLwtTog&s=10
-Vegetable Pulao,8,50,8,0,3,"Rice, vegetables, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvzDR3qJ2jr-Qk105RKyFhI1kwcm2xqQljtnAcyd2qA&s=10
-Sev Puri,5,25,2,0,2,"Puri, potato, chickpeas, chutneys",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscv3iRc3xVAqGcoc6qkt9MTuiWqVWvcTVOgo-6_Oqmg&s=10
-Moong Dal Halwa,12,30,5,0,3.5,"Moong dal, sugar, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBilNWj2g3Vp7QUoipp4PlsgoucdlGpcxzwL4Ewy8Qw&s=10
-Dahi Vada,14,20,6,30,1.5,"Lentils, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Nonr3Z-FXPv8AtX8cGxxUqKF552sundjkOsh2Om__g&s=10
-Lassi,8,15,4,20,0,"Yogurt, sugar, milk",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFLINWNqbVLHd543FEJ881sVDuXhZt-ZbOIKN3bWV3w&s=10
-Pesarattu,6,25,7,0,4,"Green gram, rice, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQ9TjBnGWQ497vbpuDEkazUyrcRw_tWFmILY4z3BY7g&s=10
-Macher Jhol,18,6,22,85,1.5,"Fish, mustard oil, tomato, turmeric, green chili",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10_a4Z76PyoplExBmqxWZfTN3mD_2OCryoPOvCVKKtw&s=10
-Shorshe Ilish,24,4,28,95,1,"Hilsa fish, mustard paste, coconut, turmeric, green chili",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHdxrKyAPX6EYPA_acYZ-gLx_kDQmrrQ5PtUbxhqkmA&s=10
-Undhiyu,14,38,10,0,8,"Mixed vegetables, fenugreek dumplings, coconut, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCJo5BkcRuOBuKj3UAJ85PychLLsa7w2MCoxNQhslQQ&s=10
-Thepla,8,32,7,0,4.5,"Whole wheat flour, fenugreek leaves, yogurt, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2SFe2CoRNGL2SjxrJ3pyL2XCQAtq1UD418WtHc7Xcjg&s=10
-Puran Poli,10,60,8,20,3.5,"Whole wheat flour, chana dal, jaggery, cardamom, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7F708GIbhv_GZInqPsd9TsT3Hk9BKKaEHb5kMLllDkg&s=10
-Misal Pav,12,45,14,0,9,"Sprouted moth beans, onion, farsan, pav bread, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_cOsctLEqCMDQtFL6dYqZR3ojn_VY2pI7eTLcl4h3g&s=10
-Dal Baati Churma,28,62,16,30,5.5,"Wheat flour, five lentils, ghee, jaggery, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpZJBqGZlgluobpbjatU5DfOzS2IfdYYpA_2O3DKNXw&s=10
-Ker Sangri,16,18,6,0,6,"Desert beans, dried berries, yogurt, mustard oil, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXAwz6PF1VitpriEg52IszKjlaWmr8U2fNM2Np4XRKA&s=10
-Chettinad Chicken,20,10,28,90,2,"Chicken, kalpasi, marathi mokku, coconut, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7kC-U5VLc77hDxYgQRSxI0WUnaizNXHa--roAW-OAQ&s=10
-Pongal,9,48,10,10,2.5,"Rice, moong dal, ghee, pepper, ginger, cashews",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32u-WyB_pnRETXtAebDFlENadNwAKWfyDRU-HghQ2IQ&s=10
-Yakhni,18,6,26,95,1,"Mutton, yogurt, fennel, dry ginger, cardamom, cloves",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-bvI9PKKD7n0RdQwjnTbcKjWlTK1w9g--ma2JYvDHA&s=10
-Dum Aloo,16,20,5,0,3.5,"Baby potatoes, yogurt, Kashmiri red chili, fennel, ginger",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIdTzJd2RrD43DGofhPaTOhtZa1oLYWc7STEyNXj7gQ&s=10
-Appam with Stew,10,42,12,30,2,"Rice batter, coconut milk, vegetables, chicken, cardamom",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoJu2UsEGiAXpF9Vq5ztT_gzkzr3zT0ej0a1JH3bTmg&s=10
-Kerala Prawn Masala,20,8,24,170,2.5,"Prawns, coconut oil, curry leaves, red chili, tomato",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeMUM0PGqViJ_CTvVoOidBQ9sxHXsVfYYyymiFRxL6g&s=10
-Sarson da Saag,14,16,9,20,5.5,"Mustard greens, spinach, maize flour, ginger, garlic, butter",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9v5kok3nLv4Ewz_e4pbtyc8MbvlrXbqdn1rt9aA9Jw&s=10
-Amritsari Kulcha,12,48,10,25,2,"Refined flour, potato stuffing, ajwain, butter, yogurt",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCHuMMQZnDbuVvM6SowOeUPWHvSySMSZ-yqPYHu4xOw&s=10
-Dalma,8,28,12,0,7,"Lentils, raw papaya, raw banana, drumstick, mustard, coconut",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToVFq9Fx4WK0GNsYRdcoF4togZjJQ36TJF2R9HGT7e-w&s=10
-Gongura Mutton,22,7,26,98,2,"Mutton, gongura leaves, onion, red chili, tamarind, spices",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYzDGG5cK1K483Awd_UlE5YotkGg627q8E5Tz75sJNQ&s=10
-Chha Gosht,20,10,25,92,1.5,"Mutton, yogurt, gram flour, cardamom, cinnamon, garlic",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwct0xttZk16mbX7FWUGHVgElsgMTKAHzkBP-iNFeUg&s=10
-Masor Tenga,10,6,20,80,1,"Fish, elephant apple, tomato, mustard oil, turmeric, lemon",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEN7DKM3rp7eQFF9LUpCmqVWWISyakMzTqIoGYFzF7g&s=10
-Shorba,8,12,10,35,1.5,"Lamb broth, tomato, onion, coriander, cardamom, pepper",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GjxQ7tYAi-31X51IDdzTckDOBxPni_qKSQs9JXwb3Q&s=10
-Tomato Rasam,4,10,3,0,1.5,"Tomato, tamarind, pepper, cumin, curry leaves, mustard seeds",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nbJ35JPDXNoh7F6KFcdJ4Odne-vara1nG6btxYLntg&s=10
-Mulligatawny Soup,10,18,12,30,3,"Chicken, lentils, coconut milk, apple, curry spices, rice",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CKgjxUydGBeqV5Byf4mdKCCUOj-uZcI-KgBXlbD84A&s=10
-Bhatura,14,42,8,0,1.5,"Refined flour, yogurt, baking soda, oil, salt",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-c_QJz3OUPC3KDNep3TciJ2SC5WRzmEXI8bstRukPVg&s=10
-Litti Chokha,18,55,14,0,6,"Wheat flour, sattu, raw mustard oil, roasted brinjal, tomato",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZIMIfLFsMcgf3HxJAQoerZF6OEUUXJx6uYcwo6QmBA&s=10
-Akki Roti,6,38,5,0,2.5,"Rice flour, onion, coriander, green chili, carrot, coconut",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmhrgXyp8P4dOqQoHsYTR2KBZBgdgTYKF1wsMi3x0Pw&s=10
-Bedmi Puri,12,40,7,0,4,"Whole wheat flour, urad dal, fennel, red chili, asafoetida",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5Wb_i71qvbkyiUT1ISpN-2dpBvRpWx1H0QvpxNoDSQ&s=10
-Aam ka Achaar,14,12,1,0,2,"Raw mango, mustard oil, fenugreek, fennel, red chili, salt",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyofAYBHbt4YN9MHTP64N4mj6xXwSjZUlVLgvnezQ2w&s=10
-Coconut Chutney,10,6,2,0,3,"Fresh coconut, roasted chana dal, green chili, ginger, curry leaves",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRftDf6gjw-yv0J-dzC-Nx4cnlB16_qWerXcEmX3f2Omw&s=10
-Tamarind Chutney,0,22,1,0,1.5,"Tamarind, jaggery, cumin, black salt, ginger powder, red chili",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazsrFcwuTAgkOoB3OBhIfXpoKxBFefBhbtmvySZPvuQ&s=10
-Masala Chai,4,14,3,10,0,"Black tea, milk, ginger, cardamom, cinnamon, cloves, sugar",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCgHwYjqKwjIoJey_7f6Oc6PfDeW2haWmO51iv4SOiQ&s=10
-Thandai,12,28,6,15,1,"Milk, almonds, rose petals, cardamom, fennel, saffron, sugar",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNwCxVnRkcPWBXu6mUZTiXfX6c-k86DbwXprMVSLODQ&s=10
-Aam Panna,0,20,0,0,1,"Raw mango, sugar, roasted cumin, black salt, mint",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUsS9EVHNTqYk5Q_FGFBiK-53DIM1qlfUKiELhFZcShQ&s=10
-Kesar Peda,8,28,5,20,0,"Khoya, saffron, cardamom, sugar, pistachios, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtCSidoiz8vzGwFCpSW-njI0xFJynonqMpZgxJ8xDjQ&s=10
-Shahi Tukda,18,48,10,45,0.5,"Bread, rabri, saffron, rose water, sugar, cardamom, nuts",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDpRO3WTVz39GCLr1PM5mVh7Rvs8cN2eqFfh9O-ajqw&s=10
-Mysore Pak,22,38,6,30,1,"Gram flour, ghee, sugar, cardamom",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ktZwBGz6NbswmCxONhhdjqZb2czJMBVfjji2LuDNvg&s=10
-Sandesh,10,22,8,25,0,"Chenna, sugar, cardamom, saffron, pistachios",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4lcYwtoGKRAjZ1b3PNvslsWnlS7vESFEg0VOYI8aYA&s=10
-Payasam,14,52,7,30,0.5,"Vermicelli, milk, sugar, cardamom, cashews, raisins, ghee",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojsCknLJ8tFTMkQkmzaeOZo5EM1uiCUPmii8XQQryHQ&s=10
-Kachori,16,36,7,0,3.5,"Refined flour, moong dal, fennel, coriander, red chili, oil",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEirYJLwzHBtjyx8D66d-GMgnJHQG0SB0AiACzjnFr_A&s=10
-Bhel Puri,6,30,4,0,3,"Puffed rice, sev, onion, tomato, tamarind chutney, coriander",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfJE76cikzHBmdU2VpRD6FQnRqpVSTdeEoelfu4Ej0w&s=10
-Dabeli,10,42,8,5,3.5,"Potato filling, dabeli masala, pav, pomegranate, peanuts, chutney",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga34hbbC1VOjmi6t64yug30nQp8NZOTdqJoCo6jcEJw&s=10
-Aloo Tikki,12,28,4,0,3,"Potato, green peas, bread crumbs, ginger, coriander, chili",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjJXD77qjfaFYWCFh_u0R8ge0ClCc21YRtpC_frUI5Q&s=10
-Vada Pav,14,46,8,0,3.5,"Potato vada, pav bread, green chutney, garlic chutney, tamarind",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRuYqSzAp1CL_W1Gc0iWbsxMboWxUAOxKb2AX3Bi3XHQ&s
+Butter Chicken,27.0,10.0,25.0,120.0,1.5,"Chicken, butter, cream, tomato, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Paneer Butter Masala,25.0,15.0,20.0,70.0,2.0,"Paneer, butter, cream, tomato, spices",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Biryani,18.0,65.0,20.0,90.0,2.5,"Rice, chicken/mutton, yogurt, spices, onions",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Masala Dosa,7.0,45.0,6.0,0.0,3.0,"Rice, urad dal, potato, spices",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Chole (Chickpea Curry),12.0,40.0,15.0,0.0,7.0,"Chickpeas, onion, tomato, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Rogan Josh,22.0,8.0,24.0,100.0,1.0,"Mutton, yogurt, tomato, spices",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Dal Makhani,16.0,30.0,15.0,40.0,6.5,"Whole black lentils, butter, cream, spices",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Palak Paneer,18.0,8.0,18.0,60.0,4.0,"Spinach, paneer, cream, spices",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Aloo Gobi,10.0,15.0,5.0,0.0,3.5,"Potato, cauliflower, spices",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Tandoori Chicken,15.0,5.0,25.0,80.0,0.5,"Chicken, yogurt, spices",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Samosa,14.0,30.0,6.0,0.0,2.5,"Potato, peas, flour, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Pani Puri,4.0,20.0,2.0,0.0,1.0,"Semolina, potato, chickpeas, spices",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Rajma,8.0,40.0,12.0,0.0,7.5,"Kidney beans, tomato, onion, spices",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Malai Kofta,22.0,20.0,10.0,50.0,3.0,"Paneer, potatoes, cream, tomato, spices",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Chicken Curry,20.0,10.0,23.0,100.0,1.0,"Chicken, onion, tomato, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Idli,2.0,20.0,4.0,0.0,1.5,"Rice, urad dal",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Upma,7.0,35.0,6.0,0.0,2.0,"Semolina, vegetables, spices",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Pav Bhaji,10.0,45.0,6.0,20.0,3.5,"Bread, potatoes, tomato, peas, spices",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Aloo Paratha,12.0,35.0,8.0,0.0,3.0,"Flour, potato, butter, spices",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Chicken Tikka,14.0,5.0,25.0,70.0,0.5,"Chicken, yogurt, spices",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Egg Curry,18.0,8.0,13.0,180.0,1.0,"Eggs, onion, tomato, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Keema,20.0,5.0,22.0,90.0,0.5,"Minced meat, onion, tomato, spices",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Bhindi Masala,7.0,10.0,3.0,0.0,3.0,"Okra, onion, tomato, spices",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Gajar Halwa,15.0,35.0,4.0,20.0,2.0,"Carrot, milk, sugar, ghee",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+,,,,,,,https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Mutton Biryani,25.0,60.0,28.0,110.0,2.5,"Rice, mutton, yogurt, spices, onions",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Dhokla,6.0,25.0,6.0,0.0,1.5,"Gram flour, yogurt, spices",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Fish Curry,18.0,8.0,22.0,90.0,1.0,"Fish, coconut milk, spices",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Malabar Parotta,15.0,40.0,7.0,0.0,1.0,"Flour, oil",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Kadai Paneer,20.0,10.0,18.0,60.0,2.0,"Paneer, capsicum, tomato, spices",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Matar Paneer,18.0,12.0,16.0,60.0,3.0,"Paneer, peas, tomato, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+,,,,,,,https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Goan Prawn Curry,22.0,10.0,20.0,80.0,1.0,"Prawns, coconut milk, spices",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Khichdi,8.0,35.0,8.0,0.0,4.0,"Rice, lentils, ghee, spices",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Daal Tadka,10.0,30.0,10.0,0.0,6.0,"Lentils, ghee, onion, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Chicken Korma,25.0,12.0,20.0,110.0,1.0,"Chicken, cream, nuts, spices",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Baingan Bharta,8.0,12.0,4.0,0.0,4.5,"Eggplant, tomato, onion, spices",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Rasgulla,10.0,35.0,3.0,20.0,0.0,"Milk, sugar",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Gulab Jamun,15.0,40.0,4.0,20.0,0.0,"Milk solids, sugar, ghee",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Prawn Biryani,20.0,60.0,24.0,90.0,2.5,"Rice, prawns, yogurt, spices",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Chicken 65,18.0,8.0,20.0,70.0,0.5,"Chicken, yogurt, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Vegetable Pulao,8.0,50.0,8.0,0.0,3.0,"Rice, vegetables, spices",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Sev Puri,5.0,25.0,2.0,0.0,2.0,"Puri, potato, chickpeas, chutneys",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Moong Dal Halwa,12.0,30.0,5.0,0.0,3.5,"Moong dal, sugar, ghee",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Dahi Vada,14.0,20.0,6.0,30.0,1.5,"Lentils, yogurt, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Lassi,8.0,15.0,4.0,20.0,0.0,"Yogurt, sugar, milk",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Pesarattu,6.0,25.0,7.0,0.0,4.0,"Green gram, rice, spices",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Macher Jhol,18.0,6.0,22.0,85.0,1.5,"Fish, mustard oil, tomato, turmeric, green chili",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Shorshe Ilish,24.0,4.0,28.0,95.0,1.0,"Hilsa fish, mustard paste, coconut, turmeric, green chili",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Undhiyu,14.0,38.0,10.0,0.0,8.0,"Mixed vegetables, fenugreek dumplings, coconut, spices",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Thepla,8.0,32.0,7.0,0.0,4.5,"Whole wheat flour, fenugreek leaves, yogurt, spices",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Puran Poli,10.0,60.0,8.0,20.0,3.5,"Whole wheat flour, chana dal, jaggery, cardamom, ghee",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Misal Pav,12.0,45.0,14.0,0.0,9.0,"Sprouted moth beans, onion, farsan, pav bread, spices",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Dal Baati Churma,28.0,62.0,16.0,30.0,5.5,"Wheat flour, five lentils, ghee, jaggery, spices",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Ker Sangri,16.0,18.0,6.0,0.0,6.0,"Desert beans, dried berries, yogurt, mustard oil, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Chettinad Chicken,20.0,10.0,28.0,90.0,2.0,"Chicken, kalpasi, marathi mokku, coconut, spices",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Pongal,9.0,48.0,10.0,10.0,2.5,"Rice, moong dal, ghee, pepper, ginger, cashews",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Yakhni,18.0,6.0,26.0,95.0,1.0,"Mutton, yogurt, fennel, dry ginger, cardamom, cloves",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Dum Aloo,16.0,20.0,5.0,0.0,3.5,"Baby potatoes, yogurt, Kashmiri red chili, fennel, ginger",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Appam with Stew,10.0,42.0,12.0,30.0,2.0,"Rice batter, coconut milk, vegetables, chicken, cardamom",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Kerala Prawn Masala,20.0,8.0,24.0,170.0,2.5,"Prawns, coconut oil, curry leaves, red chili, tomato",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Sarson da Saag,14.0,16.0,9.0,20.0,5.5,"Mustard greens, spinach, maize flour, ginger, garlic, butter",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Amritsari Kulcha,12.0,48.0,10.0,25.0,2.0,"Refined flour, potato stuffing, ajwain, butter, yogurt",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Dalma,8.0,28.0,12.0,0.0,7.0,"Lentils, raw papaya, raw banana, drumstick, mustard, coconut",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Gongura Mutton,22.0,7.0,26.0,98.0,2.0,"Mutton, gongura leaves, onion, red chili, tamarind, spices",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Chha Gosht,20.0,10.0,25.0,92.0,1.5,"Mutton, yogurt, gram flour, cardamom, cinnamon, garlic",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Masor Tenga,10.0,6.0,20.0,80.0,1.0,"Fish, elephant apple, tomato, mustard oil, turmeric, lemon",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Shorba,8.0,12.0,10.0,35.0,1.5,"Lamb broth, tomato, onion, coriander, cardamom, pepper",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Tomato Rasam,4.0,10.0,3.0,0.0,1.5,"Tomato, tamarind, pepper, cumin, curry leaves, mustard seeds",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Mulligatawny Soup,10.0,18.0,12.0,30.0,3.0,"Chicken, lentils, coconut milk, apple, curry spices, rice",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Bhatura,14.0,42.0,8.0,0.0,1.5,"Refined flour, yogurt, baking soda, oil, salt",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Litti Chokha,18.0,55.0,14.0,0.0,6.0,"Wheat flour, sattu, raw mustard oil, roasted brinjal, tomato",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Akki Roti,6.0,38.0,5.0,0.0,2.5,"Rice flour, onion, coriander, green chili, carrot, coconut",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Bedmi Puri,12.0,40.0,7.0,0.0,4.0,"Whole wheat flour, urad dal, fennel, red chili, asafoetida",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Aam ka Achaar,14.0,12.0,1.0,0.0,2.0,"Raw mango, mustard oil, fenugreek, fennel, red chili, salt",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Coconut Chutney,10.0,6.0,2.0,0.0,3.0,"Fresh coconut, roasted chana dal, green chili, ginger, curry leaves",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Tamarind Chutney,0.0,22.0,1.0,0.0,1.5,"Tamarind, jaggery, cumin, black salt, ginger powder, red chili",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Masala Chai,4.0,14.0,3.0,10.0,0.0,"Black tea, milk, ginger, cardamom, cinnamon, cloves, sugar",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Thandai,12.0,28.0,6.0,15.0,1.0,"Milk, almonds, rose petals, cardamom, fennel, saffron, sugar",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Aam Panna,0.0,20.0,0.0,0.0,1.0,"Raw mango, sugar, roasted cumin, black salt, mint",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
+Kesar Peda,8.0,28.0,5.0,20.0,0.0,"Khoya, saffron, cardamom, sugar, pistachios, ghee",https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop
+Shahi Tukda,18.0,48.0,10.0,45.0,0.5,"Bread, rabri, saffron, rose water, sugar, cardamom, nuts",https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=600&auto=format&fit=crop
+Mysore Pak,22.0,38.0,6.0,30.0,1.0,"Gram flour, ghee, sugar, cardamom",https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=600&auto=format&fit=crop
+Sandesh,10.0,22.0,8.0,25.0,0.0,"Chenna, sugar, cardamom, saffron, pistachios",https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=600&auto=format&fit=crop
+Payasam,14.0,52.0,7.0,30.0,0.5,"Vermicelli, milk, sugar, cardamom, cashews, raisins, ghee",https://images.unsplash.com/photo-1589301760014-d929f39ce9b1?q=80&w=600&auto=format&fit=crop
+Kachori,16.0,36.0,7.0,0.0,3.5,"Refined flour, moong dal, fennel, coriander, red chili, oil",https://images.unsplash.com/photo-1631452180519-c014fe946bc0?q=80&w=600&auto=format&fit=crop
+Bhel Puri,6.0,30.0,4.0,0.0,3.0,"Puffed rice, sev, onion, tomato, tamarind chutney, coriander",https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=600&auto=format&fit=crop
+Dabeli,10.0,42.0,8.0,5.0,3.5,"Potato filling, dabeli masala, pav, pomegranate, peanuts, chutney",https://images.unsplash.com/photo-1617692855027-33b14f061079?q=80&w=600&auto=format&fit=crop
+Aloo Tikki,12.0,28.0,4.0,0.0,3.0,"Potato, green peas, bread crumbs, ginger, coriander, chili",https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop
+Vada Pav,14.0,46.0,8.0,0.0,3.5,"Potato vada, pav bread, green chutney, garlic chutney, tamarind",https://images.unsplash.com/photo-1603894584373-5ac82bce8d61?q=80&w=600&auto=format&fit=crop
